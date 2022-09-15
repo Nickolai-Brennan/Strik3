@@ -1,0 +1,199 @@
+{
+  "data": {
+    "friendlyId": "snc_97_TenaciousUnderdog",
+    "layouType": "normal",
+    "layouts": [
+      {
+        "imageUrls": {
+          "small": "https://files.dragonshield.com/mtg/image_121_169/60812.png",
+          "normal": "https://files.dragonshield.com/mtg/image_189_264/60812.png",
+          "large": "https://files.dragonshield.com/mtg/image_349_487/60812.png",
+          "png": "https://files.dragonshield.com/mtg/image/60812.png",
+          "artcrop": "https://files.dragonshield.com/mtg/artcrop/60812.jpg"
+        },
+        "name": {
+          "en": "Tenacious Underdog",
+          "cn": "顽强败犬",
+          "tw": "頑強敗犬",
+          "fr": "Outsider tenace",
+          "de": "Zäher Außenseiter",
+          "it": "Sfavorito Tenace",
+          "jp": "しつこい負け犬",
+          "pt": "Azarão Tenaz",
+          "ru": "Упорный Аутсайдер",
+          "es": "Subestimado tenaz",
+          "ko": "집요한 약자"
+        },
+        "type": {
+          "en": "Creature — Human Warrior",
+          "cn": "生物 ～ - 人类／战士",
+          "tw": "生物 ～ - 人類／戰士",
+          "fr": "Créature : - humain et guerrier",
+          "de": "Kreatur — Mensch, Krieger",
+          "it": "Creatura — Guerriero Umano",
+          "jp": "クリーチャー ― - 人間・戦士",
+          "pt": "Criatura — Humano Guerreiro",
+          "ru": "Существо — Человек Воин",
+          "es": "Criatura — Guerrero humano",
+          "ko": "생물 — 인간 전사"
+        },
+        "oracleText": {
+          "en": "Blitz—{2}{B}{B}, Pay 2 life. (If you cast this spell for its blitz cost, it gains haste and \"When this creature dies, draw a card.\" Sacrifice it at the beginning of the next end step.)\nYou may cast Tenacious Underdog from your graveyard using its blitz ability.",
+          "cn": "急袭～{2}{B}{B}，支付2点生命。（如果你支付此咒语的急袭费用来施放之，则它获得敏捷与「当此生物死去时，抓一张牌。」在下一个结束步骤开始时，将它牺牲。）\n你可以从你的坟墓场中利用顽强败犬的急袭异能来施放之。",
+          "tw": "急襲～{2}{B}{B}，支付2點生命。（如果你支付此咒語的急襲費用來施放之，則它獲得敏捷與「當此生物死去時，抽一張牌。」在下一個結束步驟開始時，將它犧牲。）\n你可以從你的墳墓場中利用頑強敗犬的急襲異能來施放之。",
+          "fr": "Blitz — {2}{B}{B}, payez 2 points de vie. (Si vous lancez ce sort pour son coût de blitz, il acquiert la célérité et « Quand cette créature meurt, piochez une carte. » Sacrifiez-le au début de la prochaine étape de fin.)\nVous pouvez lancer l'Outsider tenace depuis votre cimetière en utilisant sa capacité de blitz.",
+          "de": "Blitz — {2}{B}{B}, bezahle 2 Lebenspunkte. (Falls du diesen Zauberspruch für seine Blitz-Kosten wirkst, erhält er Eile und „Wenn diese Kreatur stirbt, ziehe eine Karte.\" Opfere diese Kreatur zu Beginn des nächsten Endsegments.)\nDu kannst den Zähen Außenseiter mithilfe seiner Blitz-Fähigkeit aus deinem Friedhof wirken.",
+          "it": "Blitz—{2}{B}{B}, Paga 2 punti vita. (Se lanci questa magia per il suo costo di blitz, ha rapidità e \"Quando questa creatura muore, pesca una carta\". Sacrificala all'inizio della prossima sottofase finale.)\nPuoi lanciare lo Sfavorito Tenace dal tuo cimitero usando la sua abilità blitz.",
+          "jp": "奇襲—{2}{B}{B}, ２点のライフを支払う。（あなたがこの呪文を奇襲コストで唱えたなら、これは速攻と「このクリーチャーが死亡したとき、カード１枚を引く。」を得る。次の終了ステップの開始時に、これを生け贄に捧げる。）\nあなたは、あなたの墓地にあるしつこい負け犬をこれの奇襲能力で唱えてもよい。",
+          "pt": "Blitz — {2}{B}{B}, pague 2 pontos de vida. (Se você conjura esta mágica por seu custo de blitz, ela ganha ímpeto e \"Quando esta criatura morrer, compre um card\". Sacrifique-a no início da próxima etapa final.)\nVocê pode conjurar Azarão Tenaz do seu cemitério usando sua habilidade blitz.",
+          "ru": "Блиц — {2}{B}{B}, заплатите 2 жизни. (Если вы разыгрываете это заклинание за его стоимость Блица, оно получает Ускорение и способность «Когда это существо умирает, возьмите карту». Пожертвуйте его в начале следующего заключительного шага.)\nВы можете разыграть Упорного Аутсайдера из вашего кладбища, используя его способность Блица.",
+          "es": "Irrupción—{2}{B}{B}, pagar 2 vidas. (Si lanzas este hechizo pagando su coste de irrupción, gana la habilidad de prisa y \"Cuando esta criatura muera, roba una carta\". Sacrifícala al comienzo del próximo paso final.)\nPuedes lanzar el Subestimado tenaz desde tu cementerio usando su habilidad de irrupción.",
+          "ko": "기습—{2}{B}{B}, 생명 2점을 지불한다. (기습 비용을 지불해서 이 주문을 발동했다면, 이 생물은 신속 및 \"이 생물이 죽을 때, 카드 한 장을 뽑는다.\"를 얻는다. 다음 종료단 시작에 이 생물을 희생한다.)\n당신은 집요한 약자의 기습 비용을 지불하는 것으로 집요한 약자를 당신의 무덤에서 발동할 수 있다."
+        },
+        "manacost": "{1}{B}",
+        "powerDefense": "3/2",
+        "artist": "Zara Alfonso"
+      }
+    ],
+    "gathererUrl": "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555298",
+    "legalities": [
+      {
+        "name": "Pauper",
+        "status": "not_legal"
+      },
+      {
+        "name": "Standard",
+        "status": "legal"
+      },
+      {
+        "name": "Modern",
+        "status": "legal"
+      },
+      {
+        "name": "Legacy",
+        "status": "legal"
+      },
+      {
+        "name": "Vintage",
+        "status": "legal"
+      },
+      {
+        "name": "Commander",
+        "status": "legal"
+      },
+      {
+        "name": "Pioneer",
+        "status": "legal"
+      }
+    ],
+    "rulings": [
+      {
+        "date": "2022-04-29",
+        "text": "The triggered ability that lets its controller draw a card triggers when it dies for any reason, not just when you sacrifice it during the end step."
+      },
+      {
+        "date": "2022-04-29",
+        "text": "If you choose to pay the blitz cost rather than the mana cost, you're still casting the spell. It goes on the stack and can be responded to and countered. You can cast a creature spell for its blitz cost only if you could cast that creature spell. Most of the time, this means during your main phase when the stack is empty."
+      },
+      {
+        "date": "2022-04-29",
+        "text": "If you pay the blitz cost to cast a creature spell, that permanent will be sacrificed only if it's still on the battlefield when that triggered ability resolves. If it dies or goes to another zone before then, it will stay where it is."
+      }
+    ],
+    "expansionCode": "snc",
+    "expansionName": "Streets of New Capenna",
+    "expansionFriendlyId": "StreetsofNewCapenna",
+    "number": "97",
+    "rarity": "rare",
+    "reserved": false,
+    "gamecardfriendlyid": "tenaciousunderdog",
+    "reprints": [
+      {
+        "expansionName": "Streets of New Capenna",
+        "expansionCode": "snc",
+        "rarityCode": "R",
+        "friendlyId": "snc_97_TenaciousUnderdog",
+        "imageUrl": {
+          "small": "https://files.dragonshield.com/mtg/image_121_169/60812.png",
+          "normal": "https://files.dragonshield.com/mtg/image_189_264/60812.png",
+          "large": "https://files.dragonshield.com/mtg/image_349_487/60812.png",
+          "png": "https://files.dragonshield.com/mtg/image/60812.png",
+          "artcrop": "https://files.dragonshield.com/mtg/artcrop/60812.jpg"
+        }
+      },
+      {
+        "expansionName": "Streets of New Capenna",
+        "expansionCode": "snc",
+        "rarityCode": "R",
+        "friendlyId": "snc_345_TenaciousUnderdog",
+        "imageUrl": {
+          "small": "https://files.dragonshield.com/mtg/image_121_169/61036.png",
+          "normal": "https://files.dragonshield.com/mtg/image_189_264/61036.png",
+          "large": "https://files.dragonshield.com/mtg/image_349_487/61036.png",
+          "png": "https://files.dragonshield.com/mtg/image/61036.png",
+          "artcrop": "https://files.dragonshield.com/mtg/artcrop/61036.jpg"
+        }
+      },
+      {
+        "expansionName": "Streets of New Capenna",
+        "expansionCode": "snc",
+        "rarityCode": "R",
+        "friendlyId": "snc_445_TenaciousUnderdog",
+        "imageUrl": {
+          "small": "https://files.dragonshield.com/mtg/image_121_169/61131.png",
+          "normal": "https://files.dragonshield.com/mtg/image_189_264/61131.png",
+          "large": "https://files.dragonshield.com/mtg/image_349_487/61131.png",
+          "png": "https://files.dragonshield.com/mtg/image/61131.png",
+          "artcrop": "https://files.dragonshield.com/mtg/artcrop/61131.jpg"
+        }
+      },
+      {
+        "expansionName": "Streets of New Capenna Promos",
+        "expansionCode": "psnc",
+        "rarityCode": "R",
+        "friendlyId": "psnc_97p_TenaciousUnderdog",
+        "imageUrl": {
+          "small": "https://files.dragonshield.com/mtg/image_121_169/61739.png",
+          "normal": "https://files.dragonshield.com/mtg/image_189_264/61739.png",
+          "large": "https://files.dragonshield.com/mtg/image_349_487/61739.png",
+          "png": "https://files.dragonshield.com/mtg/image/61739.png",
+          "artcrop": "https://files.dragonshield.com/mtg/artcrop/61739.jpg"
+        }
+      },
+      {
+        "expansionName": "Streets of New Capenna Promos",
+        "expansionCode": "psnc",
+        "rarityCode": "R",
+        "friendlyId": "psnc_97s_TenaciousUnderdog",
+        "imageUrl": {
+          "small": "https://files.dragonshield.com/mtg/image_121_169/61740.png",
+          "normal": "https://files.dragonshield.com/mtg/image_189_264/61740.png",
+          "large": "https://files.dragonshield.com/mtg/image_349_487/61740.png",
+          "png": "https://files.dragonshield.com/mtg/image/61740.png",
+          "artcrop": "https://files.dragonshield.com/mtg/artcrop/61740.jpg"
+        }
+      }
+    ],
+    "edhRecStats": {
+      "url": "https://edhrec.com/cards/tenacious-underdog",
+      "rank": 21201
+    },
+    "dynamicLink": "https://link.dragonshield.com/7QhErWrdCtbf9hda8"
+  },
+  "localization": {
+    "defaultLanguage": "en",
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "jp",
+      "ko",
+      "pt",
+      "ru",
+      "cn",
+      "es",
+      "tw"
+    ]
+  }
+}
